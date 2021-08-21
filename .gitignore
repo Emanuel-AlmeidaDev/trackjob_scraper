@@ -1,0 +1,4 @@
+.env
+relatorio.xlsx
+*.pyc
+__pycache__/
